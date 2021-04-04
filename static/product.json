@@ -1,0 +1,31 @@
+
+
+
+[{
+    "id":1,
+	"name": "SHEIN Frill Trim Rib-knit Solid Tee",
+	"detail": "Lorem ipsum dolor sit amet",
+	"price": "120",
+	"hero": "OMG This just came out today!",
+	"image": "https://img.ltwebstatic.com/images3_pi/2021/03/10/16153508900d9fe444ad7709b3ef06fe8a59cf1029_thumbnail_600x.webp"
+},{
+    "id":2,
+	"name": "SHEIN Contrast Stitch Lettuce Hem Leopard Heart Tee",
+	"detail": "Lorem ipsum dolor sit amet",
+	"price": "140",
+	"info": "This is the latest and greatest product from Derp corp.",
+	"image": "https://img.ltwebstatic.com/images3_pi/2021/03/02/1614656913815c13a4b8743778e989c25864116eeb_thumbnail_600x.webp"
+},{
+    "id":3,
+	"name": "SHEIN Solid Wide Leg Belted Pants",
+	"detail": "Lorem ipsum dolor sit amet",
+	"price": "570",
+	"offer": "BOGOF",
+	"image": "https://img.ltwebstatic.com/images3_pi/2021/01/28/161181716195b11d6acb73e9de116a6ebb21e0a570_thumbnail_600x.webp"
+},{
+    "id":4,
+	"name": "Corduroy Dual Pocket Shorts",
+	"detail": "Lorem ipsum dolor sit amet",
+	"price": "270",
+	"image": "https://img.ltwebstatic.com/images3_pi/2020/12/08/1607396517999e571f9dab1297bd637a254f16af3c_thumbnail_600x.webp"
+}]
